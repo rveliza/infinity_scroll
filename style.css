@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 * {
-  border: 1px solid black;
+  /* border: 1px solid black; */
 }
 
 html {
@@ -47,7 +47,6 @@ h1 {
 }
 
 .image-container img {
-  border: 3px solid green;
   width: 100%;
   margin-top: 5px;
 }
